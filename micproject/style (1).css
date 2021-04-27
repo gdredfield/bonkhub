@@ -1,0 +1,116 @@
+			body{
+				background: rgba(0,0,0,0.9)url(njjjjj.jpg);
+				background-size:cover;
+				background-blend-mode: darken;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				height: 100vh;
+			}
+			#main{
+				background-color: #1b1b1b;
+				border-radius: 15px;
+			}
+			h1{
+				color: white;
+				font-family: calibri;
+				background-color: black;
+				letter-spacing: 1px;
+				border-top-right-radius: 15px;
+				border-top-left-radius: 15px;
+			}
+
+			.text{
+				font-family: calibri;
+				background-color: #333;
+				color: white;
+				width: 250px;
+				height: 25px;
+				font-weight: bold;
+				border: none;
+				text-align: center;
+				margin-right: 50px;
+				margin-left: 50px;
+			}
+			hr{
+				width: 250px;
+				margin-top: 0px !important;
+			}
+
+			#sub{
+				width: 220px;
+				height: 30px;
+				background-color: #ffa31a;
+				font-family: calibri;
+				font-weight: bold;
+				font-size: 15px;
+				border: none;
+				cursor: pointer;
+				float: middle;
+				border-radius: 10px;
+				margin-bottom: 20px;
+
+			}
+			span{
+				color: black;
+				background-color: #ffa31a;
+				background-repeat: no-repeat;
+				background-size: 1px 1px;
+				border-radius: 4px;
+			}
+			.error{
+				background: #1238;
+				color: #A94442;
+				padding: 10px;
+				width: 80%;
+				border-radius: 5px;
+			}
+
+			.success{
+				background: #F2DEDE;
+				color: #A94442;
+				padding: 10px;
+				width: 80%;
+				border-radius: 5px;
+			}
+			.ba{
+				font-size: 14px;
+				display: inline-block;
+				padding: 10px;
+				text-decoration: underline;
+				color: #ffa31a;
+				cursor: pointer;
+			}
+
+			h2{
+				color: white;
+				font-family: calibri;
+				color: #ffa31a;
+				letter-spacing: 1px;
+				text-decoration: underline;
+			}
+
+			#main2{
+				background-color: #1b1b1b;
+				width: 390px;
+				border-radius: 15px;
+			}
+
+			h3{
+				color: white;
+				font-family: calibri;
+				color: #ffa31a;
+				letter-spacing: 1px;
+			}
+
+			.ba1{
+				border:none;
+				background:none;
+				font-family: monstserrat;
+				font-size: 14px;
+				display: inline-block;
+				padding: 10px;
+				text-decoration: underline;
+				color: #ffa31a;
+				cursor: pointer;
+			}
